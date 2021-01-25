@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![magic-8-ball](https://github.com/raj-prog/magic_8_ball_flutter/blob/master/img/8-ball-flutter-gif.gif)
 
 A few resources to get you started if this is your first Flutter project:
 
